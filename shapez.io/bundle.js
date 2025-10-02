@@ -22566,7 +22566,7 @@ __webpack_require__.r(__webpack_exports__);
     // enableEntityInspector: true,
     // -----------------------------------------------------------------------------------
     // Enables ads in the local build (normally they are deactivated there)
-    testAds: true,
+    testAds: false,
     // -----------------------------------------------------------------------------------
     // Allows unlocked achievements to be logged to console in the local build
     // testAchievements: true,
